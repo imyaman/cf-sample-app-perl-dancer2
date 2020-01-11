@@ -22,4 +22,4 @@ get '/envs' => sub {
   return $envstring;
 };
 
-dance;
+start;
